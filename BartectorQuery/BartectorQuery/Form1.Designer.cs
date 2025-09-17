@@ -268,7 +268,7 @@ namespace BartectorQuery
             this.txt_engsr.Name = "txt_engsr";
             this.txt_engsr.Size = new System.Drawing.Size(114, 22);
             this.txt_engsr.TabIndex = 48;
-            this.txt_engsr.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_engsr_KeyPress);
+            
             // 
             // label7
             // 
@@ -345,7 +345,7 @@ namespace BartectorQuery
             this.txt_date1.TabIndex = 46;
             this.txt_date1.Text = "eg. 2 0 2 4 0 1 0 1";
             this.txt_date1.Enter += new System.EventHandler(this.txt_date1_Enter);
-            this.txt_date1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
+            
             // 
             // txt_reelID
             // 
