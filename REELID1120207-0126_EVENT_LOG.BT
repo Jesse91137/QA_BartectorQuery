@@ -1,0 +1,129 @@
+Log - [Fr 09:56:34 Feb 06, 2023 To 09:56:34 Aug 22, 2023]
+Time Stamp , Part No. , Reel ID , FID , Slot , Qty , Stroke , Event Description , User , Remarks , Station , Program
+22:42:21 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1245 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+00:27:00 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 979 , 78 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+00:31:03 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 187 , 33 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+02:31:07 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 30 , 36 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+09:03:54 May 02, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 074371 , 430 , 1425 , 48 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:37:25 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 485 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:51:12 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 462 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:00:24 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 447 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:06:42 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 437 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:18:16 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 414 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:22:58 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 405 , 1 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:39:39 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 378 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:50:52 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 355 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:53:15 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 350 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:06:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 331 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:17:42 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 315 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:33:44 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 296 , 8 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:35:02 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 223 , 294 , 78171 , Feeder loading in feeder loading process recorded to data base , 1401ES , Value [ ] Marking [] , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:46:48 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 282 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+07:24:01 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 227 , 46 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+01:57:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 729 , 82 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+02:41:57 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 632 , 11 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:00:15 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 616 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:28:22 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 592 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:43:24 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 573 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:52:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 559 , 7 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:07:32 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 535 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:21:25 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 514 , 12 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:24:56 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 507 , 4 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:31:53 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 494 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+07:35:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 222 , 5 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+06:33:21 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 429 , 1 , 3 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+21:56:52 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1331 , 3 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+22:56:55 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1203 , 42 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+00:57:01 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 896 , 83 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+01:01:04 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 148 , 39 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+02:53:49 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 0 , 30 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+09:33:57 May 02, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 074371 , 430 , 1379 , 46 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:43:51 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 476 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:50:11 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 462 , 4 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:03:37 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 441 , 6 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:07:36 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 434 , 3 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:17:53 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 414 , 11 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:35:57 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 383 , 22 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:42:27 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 372 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:52:15 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 351 , 4 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:59:18 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 341 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:11:43 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 324 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:21:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 308 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:33:55 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 296 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:41:35 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 288 , 6 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:54:00 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 273 , 1 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+02:13:17 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 685 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+02:51:58 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 629 , 3 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+22:41:55 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1245 , 35 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+23:56:58 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1057 , 71 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+00:01:01 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 220 , 2 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+02:01:06 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 66 , 41 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+10:01:53 May 02, 2023 , ES-CF2110104K9R , 1120207-0126 , KT12F 074371 , 430 , -1 , -1 , Wrong part number in feeder ,  , P/N in Feeder is [ES-FS310000161RBOU] , SMT-LINE1_NXT , SIM0114B_A_T2021-0203-A
+04:48:28 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 466 , 10 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:58:55 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 447 , 12 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:06:31 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 437 , 4 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:12:43 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 425 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:23:10 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 405 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:39:28 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 378 , 5 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:46:11 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 364 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:53:03 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 350 , 1 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:05:52 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 331 , 10 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:11:21 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 324 , 7 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:22:18 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 304 , 4 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:37:30 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 145 , 294 , 78171 , Feeder loading in feeder loading process recorded to data base , 2411ES , Value [ ] Marking [] , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+06:46:18 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 282 , 6 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:51:18 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 426 , 274 , 78191 , Feeder loading in feeder loading process recorded to data base , 2491ES , Value [ ] Marking [] , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:58:25 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 324 , 1334 , 77131 , Feeder loading in feeder loading process recorded to data base , 1401ES , Value [ ] Marking [] , SMT-LINE1_NXT , SIM0019C(V1)_B_T2021-0217-A
+02:27:06 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 643 , 42 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+22:26:54 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1280 , 51 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+23:26:57 May 06, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 1128 , 75 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+01:27:03 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 811 , 85 , Feeder record automatic update in data base , BT , F4 , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+01:31:05 May 08, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 128 , 107 , 41 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_XPF1 , CTT0013_A_T2021-1021-S
+10:01:48 May 02, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 074371 , 430 , 1334 , 45 , Feeder record automatic update in data base , BT , C39,C23 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:48:39 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 466 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:52:09 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 459 , 3 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:04:13 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 441 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:07:47 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 434 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:22:12 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 406 , 8 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:37:21 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 383 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:46:00 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 364 , 8 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:50:41 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 355 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:59:29 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 341 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:17:53 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 315 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:20:54 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 308 , 7 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:34:07 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 294 , 2 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:43:44 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 288 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:50:04 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 274 , 8 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+02:13:12 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 685 , 44 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_B_T2021-1021-S
+02:54:30 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 625 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:18:21 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 607 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:34:05 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 582 , 10 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:41:11 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 573 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:57:57 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 553 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:13:52 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 526 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:22:07 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 511 , 3 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:29:51 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 498 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+08:15:42 May 02, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 074371 , 418 , 1500 , 87541 , Feeder loading in feeder loading process recorded to data base , 1401ES , Value [ ] Marking [] , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:44:44 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 429 , 8 , 2 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:35:35 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 429 , 0 , 1 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+02:54:19 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 625 , 4 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:22:01 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 600 , 7 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:34:16 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 582 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:47:47 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 566 , 7 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:07:22 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 535 , 18 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:13:52 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 526 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:25:07 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 507 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:31:42 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 494 , 4 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+08:33:51 May 02, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 074371 , 430 , 1473 , 27 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:04:45 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 429 , 4 , 4 , Feeder record automatic update in data base , BT , F3 , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:35:36 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 429 , -1 , -1 , Out of component ,  ,  , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:00:26 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 616 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:27:57 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 592 , 8 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:49:14 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 566 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+03:57:46 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 553 , 6 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:13:14 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 526 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:21:37 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 514 , 0 , Fuji feeder error code , BT , NXT No Pickup Error , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:29:40 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 498 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+04:37:02 May 07, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012509 , 428 , 485 , 9 , Feeder record automatic update in data base , BT , Feeder Removed from Machine , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+05:25:42 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 0 , 10 , 132408 , Feeder loading in feeder loading process recorded to data base , 2877ES , Value [ ] Marking [] , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
+06:34:26 Aug 22, 2023 , ES-FS310000161RBOU , 1120207-0126 , KT12F 012510 , 427 , 1 , 132417 , Feeder loading in feeder loading process recorded to data base , 2877ES , Value [ ] Marking [] , SMT-LINE1_NXT , CTT0013_A_T2021-1021-S
